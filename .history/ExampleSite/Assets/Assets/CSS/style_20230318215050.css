@@ -11,8 +11,4 @@ h1{text-transform: uppercase;}
     max-wuth:1200px;
     margin: 0 auto;
 }
-:root{
-    --cor-cinza:#E4E4F4F2;
-    --cor-azulescuro:# 414059;
-    --gap:30px;
-}
+:

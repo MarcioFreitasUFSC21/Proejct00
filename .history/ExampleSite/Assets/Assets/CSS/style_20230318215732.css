@@ -19,7 +19,7 @@ body{
     max-wuth:1200px;
     margin: 0 auto;
     padding:-var(--gap);
-    gap.<section class="content">
+    gap.
 }
 
 :root{

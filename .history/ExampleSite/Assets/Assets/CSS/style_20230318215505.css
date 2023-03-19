@@ -1,27 +1,19 @@
+body {background: rgb(240, 183, 183);}
 
-
-body{ 
-    background: rgb(240, 183, 183);
-    font-family: 'Nunito', sans-serif;}
-    h1,h2,h3,h4,h5,h6{font-family: 'Lato', sans-serif;}
-    h1{text-transform: uppercase;
-    color:var(--cor-azulescuro);
-    }
-
+body{ font-family: 'Nunito', sans-serif;}
+h1,h2,h3,h4,h5,h6{font-family: 'Lato', sans-serif;}
+h1{text-transform: uppercase;}
 .bg{
     background-image: url(../img/background-primary.svg);
     background-size: cover;
     background-position: center center;
     color:var(--cor-cinza);
 }
-
 .content{
     max-wuth:1200px;
     margin: 0 auto;
-    padding:-var(--gap);
-    gap.<section class="content">
+    padding:--
 }
-
 :root{
     --cor-cinza:#E4E4F4F2;
     --cor-azulescuro:# 414059;

@@ -5,7 +5,7 @@ body{
     font-family: 'Nunito', sans-serif;}
     h1,h2,h3,h4,h5,h6{font-family: 'Lato', sans-serif;}
     h1{text-transform: uppercase;
-    color:var(--cor-azulescuro);
+    color:var
     }
 
 .bg{
@@ -19,7 +19,6 @@ body{
     max-wuth:1200px;
     margin: 0 auto;
     padding:-var(--gap);
-    gap.<section class="content">
 }
 
 :root{
